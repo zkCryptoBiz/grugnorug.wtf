@@ -1,0 +1,296 @@
+Uri: https://fonts.googleapis.com/css?family=Abril+Fatface:regular&ver=7.7.2
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v23/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\s\abrilfatface\v23\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: https://grugnorug.wtf/
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\index.htm
+Content Type: text/html
+
+Uri: https://grugnorug.wtf/comments/feed/
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://grugnorug.wtf/feed/
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://grugnorug.wtf/welcome-to-grug-meme-coin/feed/
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\welcome-to-grug-meme-coin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr-child/style.css?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr-child\style.css
+Content Type: text/css
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/common/css/vendor/images/marker-icon.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\common\css\vendor\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/common/js/vendor/magnific-popup.js?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\common\js\vendor\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/css/style.min.css?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\css\style.min.css
+Content Type: text/css
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/fonts/fa-brands-400.woff2?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/fonts/fa-regular-400.woff2?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/fonts/fa-solid-900.woff2?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/fonts/material-icons.woff2?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\fonts\material-icons.woff2
+Content Type: font/woff2
+
+Uri: https://grugnorug.wtf/wp-content/themes/Zephyr/js/us.core.min.js?ver=8.27
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\themes\Zephyr\js\us.core.min.js
+Content Type: application/javascript
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/abut.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\abut.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Accent.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Accent.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/basedAF-300x250.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\basedAF-300x250.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/basedAF.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\basedAF.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Board.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Board.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Claim-Here-267x300.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Claim-Here-267x300.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Claim-Here.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Claim-Here.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Copy.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Copy.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Duck.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Duck.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Fence.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Fence.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Fesh-300x178.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Fesh-300x178.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Fesh.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Fesh.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Fesh_2.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Fesh_2.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Fishing-Title.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Fishing-Title.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Footer-Six-1-1024x407.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Footer-Six-1-1024x407.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Footer-Six-1-300x119.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Footer-Six-1-300x119.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Footer-Six-1.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Footer-Six-1.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Go-Fesh-Button-300x207.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Go-Fesh-Button-300x207.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Go-Fesh-Button.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Go-Fesh-Button.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug-Coin.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug-Coin.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug-Fesh.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug-Fesh.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug-Fishing-300x241.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug-Fishing-300x241.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug-Fishing.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug-Fishing.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug-Main-Title.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug-Main-Title.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug-Woman.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug-Woman.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/grugonomiks-275x300.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\grugonomiks-275x300.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/grugonomiks-939x1024.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\grugonomiks-939x1024.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/grugonomiks.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\grugonomiks.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/grugonowikz.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\grugonowikz.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug_Fish-194x300.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug_Fish-194x300.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug_Fish.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug_Fish.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug_Site_Preview-150x150.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug_Site_Preview-150x150.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Grug_Site_Preview-300x300.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Grug_Site_Preview-300x300.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/icon_discord.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\icon_discord.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/icon_tg.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\icon_tg.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/icon_tiktok.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\icon_tiktok.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/icon_x.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\icon_x.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/L.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\L.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Legal-Ship.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Legal-Ship.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/logo_Grug.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\logo_Grug.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/M.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\M.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Magic-Eden-link-186x300.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Magic-Eden-link-186x300.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Magic-Eden-link.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Magic-Eden-link.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Pile-Of-Coin.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Pile-Of-Coin.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/preloader-300x211.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\preloader-300x211.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/preloader.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\preloader.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Professor-Grug.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Professor-Grug.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/QuakeAndShakeCondensed-9YOEL.woff
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\QuakeAndShakeCondensed-9YOEL.woff
+Content Type: font/woff
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/QuakeAndShakeCondensed-9YOEL.woff2
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\QuakeAndShakeCondensed-9YOEL.woff2
+Content Type: font/woff2
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/R.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\R.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Token-Address.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Token-Address.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Uniswap.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Uniswap.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/07/Water.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\07\Water.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-content/uploads/2024/08/dex.png
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-content\uploads\2024\08\dex.png
+Content Type: image/png
+
+Uri: https://grugnorug.wtf/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://grugnorug.wtf/wp-json/
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://grugnorug.wtf/wp-json/oembed/1.0/embed?url=https:%2F%2Fgrugnorug.wtf%2F
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://grugnorug.wtf/wp-json/oembed/1.0/embed?url=https:%2F%2Fgrugnorug.wtf%2F&format=xml
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://grugnorug.wtf/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\grugnorug.wtf\wp-json\wp\v2\pages\2
+Content Type: application/json
+
